@@ -1,0 +1,4 @@
+*.swo
+*.swp
+test/debug.log
+test/*.sqlite3.db

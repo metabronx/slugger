@@ -1,0 +1,3 @@
+sqlite3:
+  :adapter: sqlite3
+  :database: vendor/plugins/slugger/test/slugger_plugin.sqlite3.db
