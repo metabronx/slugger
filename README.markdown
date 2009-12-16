@@ -29,7 +29,7 @@ But custom column names can be used:
     end
 
     ar  = Awesomer.new
-    ar.title = "My Awesomer Name"
+    ar.name = "My Awesomer Name"
     ar.valid?  # => true
     ar.path    # => "my-awesomer-name"
 
